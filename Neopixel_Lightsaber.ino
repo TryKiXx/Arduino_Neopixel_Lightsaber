@@ -1,8 +1,9 @@
 /* 
   Arduino Neopixel Lightsaber
+
+  Author: TryKIXx
   
   Version 1.3, 27.03.2024
-  Author: TryKiXx
 */
 
 // Speicher-Funktion.

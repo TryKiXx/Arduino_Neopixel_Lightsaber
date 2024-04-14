@@ -2,9 +2,7 @@
   Arduino Neopixel Lightsaber
   
   Version 1.3, 27.03.2024
-  Henry Görsdorf
-  https://website.de
-  https://www.youtube.com/c/TryKiXx
+  Author: TryKiXx
 */
 
 // Speicher-Funktion.

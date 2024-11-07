@@ -39,7 +39,7 @@ unsigned long lastDebounceTime = 0;
 unsigned long debounceDelay = 50;
 unsigned long oneSecPress = 1000;
 unsigned long twoSecPress = 2000;    // NEU Dauer für den langen Tastendruck auf 2 Sekunden erhöht
-unsigned long threeSecPress = 3000;  // NEU Dauer für den langen Tastendruck auf 2 Sekunden erhöht
+unsigned long threeSecPress = 3000;  // NEU Dauer für den langen Tastendruck auf 3 Sekunden erhöht
 unsigned long pressStartTime = 0;
 int currentFunction = 0;
 
